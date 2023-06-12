@@ -5,7 +5,7 @@ from azure.devops.v7_0.core.models import TeamProject
 organization_url = 'https://dev.azure.com/t-vivekv/'
 
 # Personal access token (PAT) with appropriate project creation access
-personal_access_token = 'tmp6wanuzj5ygjineef3i3tgy5z7cq3e4jejx4uwzsxgn5cd42rq'
+personal_access_token = 'Put ur token'
 
 # Create a connection to Azure DevOps
 credentials = BasicAuthentication('', personal_access_token)

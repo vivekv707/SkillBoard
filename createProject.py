@@ -7,7 +7,7 @@ from azure.devops.v7_0.work_item_tracking.models import JsonPatchOperation,  Wor
 organization_url = 'https://dev.azure.com/t-vivekv/'
 
 # Personal access token (PAT) with appropriate project creation access
-personal_access_token = 'tmp6wanuzj5ygjineef3i3tgy5z7cq3e4jejx4uwzsxgn5cd42rq'
+personal_access_token = 'put ur token'
 
 # New project name and description
 new_project_name = 'Project-Vivekv'
